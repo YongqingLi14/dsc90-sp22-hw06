@@ -1,5 +1,5 @@
 # Homework 6 for History of Data Science, Spring 2022 @ UC San Diego
-<p align="center">## Yongqing Li (yoli@ucsd.edu)
+## Yongqing Li (yoli@ucsd.edu)
 
 
 ## Question 1 - Cholera Deaths
