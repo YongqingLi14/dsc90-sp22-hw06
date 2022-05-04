@@ -10,9 +10,9 @@ Spatial illustration the proportion of cholera death (blue) in SoHo, London alon
 
 ## Quesiton 2 - Galton's Heights
 3D scatter plot of the relationship between the heights of Father, Mother, and Child.
-<iframe src='./galton-plt.html' width=800 height=600 frameBorder=0> </iframe>
+<iframe src='./galton-fig.html' width=800 height=600 frameBorder=0> </iframe>
 
 
 ## Question 3 - French Departments
 Choropleth map representing the 2013 population in french departments.
-<iframe src='./france-plt.html' width=800 height=600 frameBorder=0> </iframe>
+<iframe src='./france-fig.html' width=800 height=600 frameBorder=0> </iframe>
